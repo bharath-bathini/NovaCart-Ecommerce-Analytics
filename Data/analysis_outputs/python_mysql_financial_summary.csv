@@ -1,0 +1,6 @@
+metric,python_total,mysql_total_matched_orders,difference_mysql_minus_python,orders_different_exactly,orders_difference_over_1_paisa,max_absolute_order_difference
+gross_sales,5645874630.36,5645874630.36,0.0,0,0,0.0
+discount_amount,845514085.77,845514085.77,0.0,0,0,0.0
+net_revenue,4800360544.59,4800360544.59,0.0,0,0,0.0
+product_cost,4187946350.2,4187946350.2,0.0,0,0,0.0
+profit,598903173.3,598903173.3,0.0,0,0,0.0

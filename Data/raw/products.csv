@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+P0001,Smart Laptops Series 1,Electronics,Laptops,46118.49,52740.86
+P0002,Eco Sportswear Product 2,Sports,Sportswear,39445.44,55331.79
+P0003,Smart Personal Care Model 3,Beauty,Personal Care,2179.92,2844.7
+P0004,Essential Headphones Product 4,Electronics,Headphones,48151.08,61664.84
+P0005,Classic Cookware Model 5,Home & Kitchen,Cookware,41830.5,59546.05
+P0006,Eco Laptops Product 6,Electronics,Laptops,2685.13,3974.34
+P0007,Pro Sportswear Collection 7,Sports,Sportswear,38198.17,52307.49
+P0008,Smart Cookware Collection 8,Home & Kitchen,Cookware,41850.43,47995.04
+P0009,Modern Sportswear Product 9,Sports,Sportswear,34802.43,45588.96
+P0010,Smart Accessories Model 10,Electronics,Accessories,24395.51,27289.69
+P0011,Modern Makeup Product 11,Beauty,Makeup,46188.75,68090.58
+P0012,Modern Smart Watches Series 12,Electronics,Smart Watches,19667.93,23782.35
+P0013,Premium Outdoor Product 13,Sports,Outdoor,28707.66,34854.96
+P0014,Elite Cookware Model 14,Home & Kitchen,Cookware,4688.56,7094.17
+P0015,Classic Cookware Series 15,Home & Kitchen,Cookware,49155.33,75848.13
+P0016,Premium Skincare Edition 16,Beauty,Skincare,13096.97,19072.8
+P0017,Smart Makeup Series 17,Beauty,Makeup,35827.73,46380.6
+P0018,Classic Footwear Series 18,Fashion,Footwear,23096.38,30763.48
+P0019,Advanced Makeup Model 19,Beauty,Makeup,44735.92,66031.38
+P0020,Elite Haircare Edition 20,Beauty,Haircare,14757.41,20835.07
+P0021,Modern Headphones Product 21,Electronics,Headphones,23774.4,36355.19
+P0022,Ultra Accessories Model 22,Electronics,Accessories,1184.69,1354.42
+P0023,Smart Haircare Collection 23,Beauty,Haircare,34927.19,39139.0
+P0024,Ultra Home Decor Series 24,Home & Kitchen,Home Decor,22375.76,27596.12
+P0025,Advanced Men Clothing Series 25,Fashion,Men Clothing,11107.41,14136.13
+P0026,Ultra Women Clothing Model 26,Fashion,Women Clothing,28715.45,38028.38
+P0027,Essential Laptops Collection 27,Electronics,Laptops,38681.0,49699.73
+P0028,Smart Storage Model 28,Home & Kitchen,Storage,28058.71,31446.27
+P0029,Pro Haircare Edition 29,Beauty,Haircare,21806.9,31686.49
+P0030,Premium Smartphones Edition 30,Electronics,Smartphones,17077.4,23061.83
+P0031,Advanced Footwear Collection 31,Fashion,Footwear,8884.18,11508.63
+P0032,Essential Women Clothing Edition 32,Fashion,Women Clothing,30249.61,45907.25
+P0033,Pro Accessories Model 33,Electronics,Accessories,26774.8,32957.77
+P0034,Elite Skincare Model 34,Beauty,Skincare,42352.21,60036.18
+P0035,Pro Headphones Model 35,Electronics,Headphones,25358.4,39388.31
+P0036,Pro Footwear Model 36,Fashion,Footwear,2751.22,4027.43
+P0037,Advanced Accessories Collection 37,Electronics,Accessories,43947.82,53976.87
+P0038,Smart Personal Care Model 38,Beauty,Personal Care,37799.91,49217.98
+P0039,Elite Headphones Product 39,Electronics,Headphones,26069.47,39318.97
+P0040,Premium Fitness Equipment Series 40,Sports,Fitness Equipment,22750.01,35541.24
+P0041,Classic Furniture Product 41,Home & Kitchen,Furniture,38898.13,48779.53
+P0042,Ultra Smart Watches Model 42,Electronics,Smart Watches,1217.61,1933.74
+P0043,Modern Bags Product 43,Fashion,Bags,17005.55,19016.5
+P0044,Elite Storage Model 44,Home & Kitchen,Storage,29688.58,36303.9
+P0045,Advanced Smart Watches Model 45,Electronics,Smart Watches,33360.42,37067.65
+P0046,Classic Personal Care Edition 46,Beauty,Personal Care,46664.19,55601.23
+P0047,Modern Storage Model 47,Home & Kitchen,Storage,45578.98,64776.23
+P0048,Premium Accessories Edition 48,Electronics,Accessories,22715.67,32336.24
+P0049,Pro Makeup Edition 49,Beauty,Makeup,38044.39,54712.64
+P0050,Advanced Smart Watches Series 50,Electronics,Smart Watches,28717.53,34523.5
+P0051,Eco Furniture Edition 51,Home & Kitchen,Furniture,37845.76,60315.0
+P0052,Essential Headphones Product 52,Electronics,Headphones,42223.36,59889.63
+P0053,Smart Sportswear Product 53,Sports,Sportswear,34784.57,39283.65
+P0054,Classic Yoga Edition 54,Sports,Yoga,43243.06,62330.42
+P0055,Modern Skincare Model 55,Beauty,Skincare,10455.45,15886.72
+P0056,Smart Smart Watches Edition 56,Electronics,Smart Watches,46560.44,66957.78
+P0057,Pro Smart Watches Edition 57,Electronics,Smart Watches,29151.45,43242.35
+P0058,Eco Fitness Equipment Edition 58,Sports,Fitness Equipment,46538.34,62606.59
+P0059,Modern Sportswear Collection 59,Sports,Sportswear,48295.62,71706.06
+P0060,Classic Storage Model 60,Home & Kitchen,Storage,36929.38,57647.78
+P0061,Elite Yoga Edition 61,Sports,Yoga,13268.24,17283.38
+P0062,Premium Women Clothing Series 62,Fashion,Women Clothing,35954.57,50181.05
+P0063,Pro Kitchen Appliances Collection 63,Home & Kitchen,Kitchen Appliances,15263.85,24342.54
+P0064,Classic Fitness Equipment Collection 64,Sports,Fitness Equipment,18067.87,24984.08
+P0065,Premium Personal Care Model 65,Beauty,Personal Care,30020.96,33976.36
+P0066,Advanced Accessories Series 66,Fashion,Accessories,299.19,367.77
+P0067,Elite Sportswear Series 67,Sports,Sportswear,28158.28,38191.49
+P0068,Premium Women Clothing Series 68,Fashion,Women Clothing,39183.94,56694.02
+P0069,Ultra Smart Watches Product 69,Electronics,Smart Watches,20831.41,28143.21
+P0070,Modern Smart Watches Collection 70,Electronics,Smart Watches,33233.52,47819.73
+P0071,Eco Accessories Product 71,Fashion,Accessories,5327.22,7592.6
+P0072,Smart Accessories Edition 72,Fashion,Accessories,4839.05,5326.52
+P0073,Classic Skincare Model 73,Beauty,Skincare,2909.08,4071.37
+P0074,Elite Storage Product 74,Home & Kitchen,Storage,22424.07,25203.8
+P0075,Ultra Accessories Product 75,Electronics,Accessories,25975.55,40239.43
+P0076,Smart Smart Watches Model 76,Electronics,Smart Watches,7681.09,9085.21
+P0077,Elite Haircare Collection 77,Beauty,Haircare,42153.88,53245.6
+P0078,Advanced Smartphones Series 78,Electronics,Smartphones,25913.74,37053.68
+P0079,Smart Accessories Model 79,Fashion,Accessories,31641.02,36210.26
+P0080,Modern Skincare Edition 80,Beauty,Skincare,34334.06,50114.55
+P0081,Smart Skincare Model 81,Beauty,Skincare,20426.0,23821.12
+P0082,Ultra Fitness Equipment Series 82,Sports,Fitness Equipment,42065.46,51322.13
+P0083,Premium Smart Watches Series 83,Electronics,Smart Watches,49714.42,65157.69
+P0084,Elite Footwear Series 84,Fashion,Footwear,16437.97,22970.93
+P0085,Essential Home Decor Edition 85,Home & Kitchen,Home Decor,34087.25,52409.91
+P0086,Smart Smartphones Product 86,Electronics,Smartphones,36842.08,45964.83
+P0087,Smart Home Decor Collection 87,Home & Kitchen,Home Decor,10904.49,15248.13
+P0088,Smart Fitness Equipment Series 88,Sports,Fitness Equipment,23034.76,28201.96
+P0089,Elite Furniture Edition 89,Home & Kitchen,Furniture,22677.19,34275.64
+P0090,Eco Laptops Model 90,Electronics,Laptops,32521.45,43072.37
+P0091,Pro Home Decor Model 91,Home & Kitchen,Home Decor,16048.6,24429.67
+P0092,Essential Men Clothing Collection 92,Fashion,Men Clothing,11270.83,16703.92
+P0093,Classic Accessories Edition 93,Fashion,Accessories,40794.6,60983.29
+P0094,Pro Men Clothing Model 94,Fashion,Men Clothing,41388.04,51155.15
+P0095,Classic Sportswear Collection 95,Sports,Sportswear,43739.06,60577.63
+P0096,Ultra Haircare Collection 96,Beauty,Haircare,13966.97,20338.0
+P0097,Pro Haircare Series 97,Beauty,Haircare,11694.89,13089.16
+P0098,Eco Personal Care Edition 98,Beauty,Personal Care,48513.77,63255.96
+P0099,Smart Fitness Equipment Collection 99,Sports,Fitness Equipment,29157.55,40338.71
+P0100,Smart Haircare Product 100,Beauty,Haircare,47575.53,56757.49
+P0101,Smart Yoga Series 101,Sports,Yoga,48070.05,66425.01
+P0102,Modern Kitchen Appliances Model 102,Home & Kitchen,Kitchen Appliances,20028.13,31709.52
+P0103,Smart Yoga Series 103,Sports,Yoga,44648.51,57528.61
+P0104,Eco Sportswear Edition 104,Sports,Sportswear,39598.05,58090.66
+P0105,Essential Cookware Edition 105,Home & Kitchen,Cookware,36793.23,56388.59
+P0106,Advanced Personal Care Model 106,Beauty,Personal Care,30623.57,39384.5
+P0107,Elite Skincare Product 107,Beauty,Skincare,12503.54,17037.27
+P0108,Elite Accessories Edition 108,Electronics,Accessories,40692.3,46707.55
+P0109,Ultra Furniture Series 109,Home & Kitchen,Furniture,48807.2,68317.65
+P0110,Modern Cookware Product 110,Home & Kitchen,Cookware,1660.68,2571.4
+P0111,Premium Footwear Model 111,Fashion,Footwear,46511.32,54576.25
+P0112,Elite Fitness Equipment Series 112,Sports,Fitness Equipment,42674.77,65521.03
+P0113,Pro Fitness Equipment Collection 113,Sports,Fitness Equipment,6086.8,7316.71
+P0114,Essential Yoga Series 114,Sports,Yoga,45076.44,68597.7
+P0115,Premium Haircare Edition 115,Beauty,Haircare,30722.3,40473.23
+P0116,Elite Bags Series 116,Fashion,Bags,37165.68,53279.41
+P0117,Premium Home Decor Collection 117,Home & Kitchen,Home Decor,31130.02,45285.17
+P0118,Ultra Kitchen Appliances Series 118,Home & Kitchen,Kitchen Appliances,11829.91,17932.08
+P0119,Advanced Accessories Model 119,Electronics,Accessories,21519.74,33811.92
+P0120,Elite Accessories Edition 120,Electronics,Accessories,45306.05,58913.24
+P0121,Essential Fitness Equipment Model 121,Sports,Fitness Equipment,26790.62,41248.8
+P0122,Essential Smart Watches Series 122,Electronics,Smart Watches,31471.79,34662.69
+P0123,Modern Yoga Product 123,Sports,Yoga,46835.08,61602.5
+P0124,Smart Bags Collection 124,Fashion,Bags,42508.79,46902.66
+P0125,Advanced Home Decor Collection 125,Home & Kitchen,Home Decor,6201.7,7328.45
+P0126,Pro Kitchen Appliances Model 126,Home & Kitchen,Kitchen Appliances,33091.71,41625.21
+P0127,Premium Skincare Product 127,Beauty,Skincare,24910.79,33578.1
+P0128,Advanced Kitchen Appliances Collection 128,Home & Kitchen,Kitchen Appliances,3293.07,4312.35
+P0129,Premium Sportswear Series 129,Sports,Sportswear,34811.49,52797.3
+P0130,Eco Fitness Equipment Series 130,Sports,Fitness Equipment,25878.69,30968.72
+P0131,Pro Skincare Collection 131,Beauty,Skincare,36641.77,55152.55
+P0132,Advanced Footwear Collection 132,Fashion,Footwear,27587.52,30347.45
+P0133,Modern Bags Product 133,Fashion,Bags,22307.79,35232.58
+P0134,Pro Haircare Collection 134,Beauty,Haircare,49324.96,77021.05
+P0135,Modern Smart Watches Collection 135,Electronics,Smart Watches,3995.57,5907.56
+P0136,Premium Smart Watches Edition 136,Electronics,Smart Watches,42695.94,67779.55
+P0137,Pro Smart Watches Series 137,Electronics,Smart Watches,43221.12,60360.23
+P0138,Essential Headphones Model 138,Electronics,Headphones,9790.77,12022.05
+P0139,Ultra Fitness Equipment Collection 139,Sports,Fitness Equipment,25542.4,32493.93
+P0140,Classic Fitness Equipment Collection 140,Sports,Fitness Equipment,44780.84,59376.97
+P0141,Modern Accessories Collection 141,Fashion,Accessories,12594.04,18049.81
+P0142,Advanced Skincare Model 142,Beauty,Skincare,334.1,415.13
+P0143,Premium Sportswear Collection 143,Sports,Sportswear,16082.87,20198.14
+P0144,Premium Outdoor Series 144,Sports,Outdoor,30289.51,45259.53
+P0145,Smart Sportswear Product 145,Sports,Sportswear,40252.74,44763.74
+P0146,Modern Furniture Model 146,Home & Kitchen,Furniture,38493.48,57108.55
+P0147,Ultra Laptops Collection 147,Electronics,Laptops,45783.86,62815.18
+P0148,Premium Makeup Model 148,Beauty,Makeup,26802.07,29649.09
+P0149,Smart Makeup Edition 149,Beauty,Makeup,34951.16,40028.57
+P0150,Modern Makeup Edition 150,Beauty,Makeup,10491.0,12608.73
+P0151,Modern Home Decor Series 151,Home & Kitchen,Home Decor,10164.36,15920.14
+P0152,Elite Yoga Collection 152,Sports,Yoga,42530.21,57482.5
+P0153,Modern Fitness Equipment Model 153,Sports,Fitness Equipment,2320.06,3387.1
+P0154,Premium Yoga Edition 154,Sports,Yoga,8575.74,13631.34
+P0155,Eco Accessories Product 155,Electronics,Accessories,27134.4,39655.38
+P0156,Classic Women Clothing Product 156,Fashion,Women Clothing,10144.67,15501.86
+P0157,Modern Storage Product 157,Home & Kitchen,Storage,4993.18,6833.45
+P0158,Ultra Outdoor Product 158,Sports,Outdoor,17276.93,25918.35
+P0159,Classic Cookware Product 159,Home & Kitchen,Cookware,29781.18,38764.34
+P0160,Smart Bags Series 160,Fashion,Bags,1100.86,1335.28
+P0161,Advanced Skincare Model 161,Beauty,Skincare,47608.25,61018.51
+P0162,Advanced Footwear Product 162,Fashion,Footwear,43204.45,62190.56
+P0163,Classic Cookware Model 163,Home & Kitchen,Cookware,37585.61,46780.47
+P0164,Eco Accessories Collection 164,Electronics,Accessories,36513.89,50691.85
+P0165,Modern Personal Care Model 165,Beauty,Personal Care,6787.07,8848.46
+P0166,Eco Home Decor Model 166,Home & Kitchen,Home Decor,46157.88,59158.29
+P0167,Modern Laptops Product 167,Electronics,Laptops,37045.18,46328.83
+P0168,Advanced Home Decor Edition 168,Home & Kitchen,Home Decor,45379.35,50052.01
+P0169,Premium Personal Care Collection 169,Beauty,Personal Care,46420.69,52265.84
+P0170,Modern Kitchen Appliances Model 170,Home & Kitchen,Kitchen Appliances,12087.56,18308.03
+P0171,Smart Men Clothing Edition 171,Fashion,Men Clothing,44377.55,50761.93
+P0172,Premium Makeup Edition 172,Beauty,Makeup,27341.93,31725.98
+P0173,Premium Furniture Edition 173,Home & Kitchen,Furniture,6089.63,7200.71
+P0174,Smart Kitchen Appliances Collection 174,Home & Kitchen,Kitchen Appliances,6935.73,9738.84
+P0175,Pro Women Clothing Model 175,Fashion,Women Clothing,37897.41,52458.04
+P0176,Pro Outdoor Product 176,Sports,Outdoor,28809.01,43564.69
+P0177,Premium Skincare Edition 177,Beauty,Skincare,35887.07,47198.37
+P0178,Essential Storage Model 178,Home & Kitchen,Storage,46735.35,66868.62
+P0179,Eco Footwear Series 179,Fashion,Footwear,2383.47,2962.45
+P0180,Elite Outdoor Collection 180,Sports,Outdoor,11411.43,13069.3
+P0181,Ultra Fitness Equipment Product 181,Sports,Fitness Equipment,35974.64,50278.93
+P0182,Ultra Footwear Series 182,Fashion,Footwear,14313.0,21748.37
+P0183,Modern Footwear Model 183,Fashion,Footwear,8013.63,9487.63
+P0184,Classic Women Clothing Model 184,Fashion,Women Clothing,30903.24,34802.19
+P0185,Premium Personal Care Series 185,Beauty,Personal Care,48481.47,63229.26
+P0186,Elite Haircare Edition 186,Beauty,Haircare,21268.25,28155.39
+P0187,Smart Bags Model 187,Fashion,Bags,45109.52,58780.07
+P0188,Essential Cookware Product 188,Home & Kitchen,Cookware,18425.43,23632.14
+P0189,Pro Headphones Product 189,Electronics,Headphones,3579.01,4349.21
+P0190,Advanced Smart Watches Product 190,Electronics,Smart Watches,15938.46,17962.39
+P0191,Eco Yoga Product 191,Sports,Yoga,18796.3,22360.48
+P0192,Pro Men Clothing Series 192,Fashion,Men Clothing,29618.38,37135.39
+P0193,Premium Outdoor Model 193,Sports,Outdoor,48437.73,71007.85
+P0194,Classic Women Clothing Collection 194,Fashion,Women Clothing,34780.95,55432.38
+P0195,Essential Skincare Model 195,Beauty,Skincare,6330.79,9919.01
+P0196,Eco Accessories Edition 196,Electronics,Accessories,20013.41,31665.46
+P0197,Eco Bags Series 197,Fashion,Bags,21598.32,27951.93
+P0198,Pro Accessories Series 198,Electronics,Accessories,44079.12,64211.88
+P0199,Ultra Makeup Model 199,Beauty,Makeup,19920.21,31422.59
+P0200,Premium Bags Series 200,Fashion,Bags,48534.34,77504.98
