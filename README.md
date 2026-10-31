@@ -43,8 +43,7 @@ These findings describe the generated dataset and do not establish the causes of
 ## Executive Dashboard
 
 The Power BI dashboard presents revenue trends, category performance, regional revenue, returns, payment methods, and return reasons.
-
-![NovaCart Executive Dashboard](Dashboard_Screenshots/NovaCart_Executive_Dashboard.png)
+(Dashboard_Screenshots/NovaCart_Executive_Dashboard.png)
 
 **Interactive dashboard:** Open `PowerBI/NovaCart_Executive_Overview.pbix` in Power BI Desktop.
 
