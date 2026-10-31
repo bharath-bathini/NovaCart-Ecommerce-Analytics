@@ -1,4 +1,4 @@
-# NovaCart Ã¢â‚¬â€ Business Insights and Recommendations
+# NovaCart-Business Insights and Recommendations
 
 ## 1. Purpose
 
@@ -12,9 +12,9 @@ This document summarizes the key business findings from the NovaCart e-commerce 
 | Products | 200 |
 | Orders | 50,000 |
 | Returned Orders | 4,000 |
-| Net Revenue | â‚¹4,800,360,544.59 |
-| Total Profit | â‚¹598,903,173.30 |
-| Average Order Value | â‚¹96,007.21 |
+| Net Revenue | ₹4,800,360,544.59 |
+| Total Profit | ₹598,903,173.30 |
+| Average Order Value | ₹96,007.21 |
 | Return Rate | 8.00% |
 | Profit Margin | 12.48% |
 
@@ -22,10 +22,10 @@ This document summarizes the key business findings from the NovaCart e-commerce 
 
 | Metric | 2024 | 2025 |
 |---|---:|---:|
-| Revenue | â‚¹1,700,350,305.05 | â‚¹3,100,010,290.81 |
-| Profit | â‚¹213,353,642.79 | â‚¹385,549,560.50 |
+| Total Orders | 17,763 | 32,237 |
+| Net Revenue | ₹1,700,350,287.04 | ₹3,100,010,257.55 |
+| Total Profit | ₹213,353,632.25 | ₹385,549,541.05 |
 | Profit Margin | 12.55% | 12.44% |
-
 ### Findings
 
 - Revenue increased by approximately 82.32% between 2024 and 2025.
@@ -40,8 +40,8 @@ The Sports category recorded the highest revenue and profit among the analyzed c
 
 | Metric | Sports Category |
 |---|---:|
-| Revenue | â‚¹1,075,144,069.21 |
-| Profit | â‚¹146,887,553.88 |
+| Revenue | ₹1,075,144,069.21 |
+| Profit | ₹146,887,553.88 |
 | Profit Margin | 13.66% |
 | Return Rate | 8.27% |
 
