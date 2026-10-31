@@ -27,6 +27,7 @@ The project follows an end-to-end analytics workflow:
 | Total profit | ₹598,903,173.30 |
 | Profit margin | 12.48% |
 | Average order value | ₹96,007.21 |
+| Return rate | 8.00% |
 
 The financial KPIs were verified using Python, and the Python-to-MySQL reconciliation confirmed that all 50,000 order IDs and the five compared financial metrics matched exactly.
 
@@ -42,10 +43,82 @@ These findings describe the generated dataset and do not establish the causes of
 
 ## Executive Dashboard
 
-The Power BI dashboard presents revenue trends, category performance, regional revenue, returns, payment methods, and return reasons.
-(Dashboard_Screenshots/NovaCart_Executive_Dashboard.png)
+The Power BI dashboard presents an executive overview of revenue trends, category performance, regional revenue, profitability, payment methods, and product returns.
+
+![NovaCart Executive Dashboard](Dashboard_Screenshots/NovaCart_Executive_Dashboard.png)
+
+**Dashboard screenshot:** [View the full-size dashboard image](https://github.com/bharath-bathini/NovaCart-Ecommerce-Analytics/blob/main/Dashboard_Screenshots/NovaCart_Executive_Dashboard.png).
 
 **Interactive dashboard:** Open `PowerBI/NovaCart_Executive_Overview.pbix` in Power BI Desktop.
+
+## Key Skills Demonstrated
+
+- **Python:** Data generation, data cleaning, feature engineering, exploratory data analysis, and statistical analysis.
+- **SQL and MySQL:** Data retrieval, filtering, joins, aggregations, business analysis, and KPI validation.
+- **Power BI:** Executive dashboard development, KPI cards, business performance visualizations, and interactive date filtering.
+- **Data Validation:** Data quality checks and Python-to-MySQL financial reconciliation.
+- **Business Intelligence:** Revenue and profitability analysis, category performance, regional analysis, and product return analysis.
+- **Documentation and Version Control:** Project documentation, Git, and GitHub.
+
+## Project Structure
+
+```text
+NovaCart-Ecommerce-Analytics/
+│
+├── Python/
+│   ├── generate_dataset.py
+│   ├── data_quality.py
+│   ├── data_cleaning.py
+│   ├── eda.py
+│   ├── statistical_analysis.py
+│   ├── compare_python_mysql.py
+│   └── final_kpi_verification.py
+│
+├── SQL/
+│   ├── 01_database_setup.sql
+│   ├── 02_basic_queries.sql
+│   ├── 03_aggregation_groupby.sql
+│   ├── 04_joins.sql
+│   ├── 05_business_analysis.sql
+│   ├── 06_advanced_sql.sql
+│   └── 07_validation_and_kpis.sql
+│
+├── PowerBI/
+│   └── NovaCart_Executive_Overview.pbix
+│
+├── Dashboard_Screenshots/
+│   └── NovaCart_Executive_Dashboard.png
+│
+├── Business_Understanding/
+│   ├── NovaCart_Business_Understanding.docx
+│   ├── NovaCart_Day_1_Business_Understanding_DETAILED.docx
+│   ├── NovaCart_Day_2_Dataset_Creation_and_Data_Understanding_DETAILED.docx
+│   ├── NovaCart_Day_3_Data_Quality_Assessment_DETAILED.docx
+│   ├── NovaCart_Day_4_Data_Cleaning_and_Transformation_DETAILED.docx
+│   ├── NovaCart_Day_5_Feature_Engineering_and_EDA_DETAILED.docx
+│   ├── NovaCart_Day_6_Statistical_and_Business_Analysis_DETAILED.docx
+│   ├── NovaCart_Day_7_SQL_Analysis_DETAILED.docx
+│   └── NovaCart_Day_8_Dashboard_Validation_and_Business_Insights.docx
+│
+├── Insights/
+│   ├── NovaCart_Business_Insights.md
+│   └── Python_MySQL_Financial_Reconciliation.md
+│
+├── requirements.txt
+└── README.md
+```
+
+*Note: The project structure above highlights the main deliverables. Additional files, datasets, and generated outputs may also exist in the repository.*
+
+## How to Explore the Project
+
+1. **Review the business problem:** Read the documentation in `Business_Understanding/`.
+2. **Explore the Python workflow:** Review the scripts in `Python/` to understand dataset generation, cleaning, analysis, and validation.
+3. **Explore the SQL analysis:** Review the scripts in `SQL/` to understand database queries and business KPI calculations.
+4. **Review the business findings:** Open the reports in `Insights/`.
+5. **Explore the dashboard:** Open `PowerBI/NovaCart_Executive_Overview.pbix` in Power BI Desktop.
+
+Python dependencies are listed in `requirements.txt`.
 
 ## Important Data Disclaimer
 
